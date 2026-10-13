@@ -1,0 +1,6 @@
+{
+  "name": "DhanTrack — Personal Finance Manager",
+  "description": "Complete offline-first personal finance management application with SQLite storage, multi-account tracking, customizable categories, budgets, and lending manager in Indian Rupee (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
